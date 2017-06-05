@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+#include<omaniip.h>
+void main(){
+int a;
+cout<<"values/n";
+cin>>a;
+if(a>0)
+cout<<"+ve";
+if(a<0)
+cout<<"-ve";
+else
+cout<<"zero;
+}
